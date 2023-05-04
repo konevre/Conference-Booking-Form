@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+    @apply w-full;
+    @apply h-full;
+}
+
+body {
+    @apply bg-slate-100;
+    @apply w-full;
+    @apply h-full;
+}
+
+#root {
+    @apply w-full;
+    @apply h-full;
+}
